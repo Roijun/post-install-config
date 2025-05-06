@@ -18,7 +18,7 @@
 
 <h2>List of Prerequisites</h2>
 
-- Have the osTicket software successsfully installed onto a virtual machine from my previous step by step walkthrough. 
+- Have the osTicket software successsfully installed onto a virtual machine from my previous osTicket walkthrough. 
  
 <h2>Overview</h2>
 
