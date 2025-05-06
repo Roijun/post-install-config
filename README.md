@@ -60,7 +60,32 @@ Before we configure some agents for our walkthrough we're going to make sure tha
 
 - Agents
 
-Agents are the actual individuals who get hired as Help Desk employees to work and solve the tickets created when people are having IT related issues. We configure agents from the admin panel, which we should already be in after checking our registration settings. We'll just select 'Agents' fron the row closest to the top of the page. 
+Agents are the actual individuals who get hired as Help Desk employees to work and solve the tickets created when people are having IT related issues. We configure agents from the admin panel, which we should already be in after checking our registration settings. We'll just select 'Agents' fron the row closest to the top of the page. Once here we're going to want to click 'Add New Agent' from the top right. I'm going to make it simple and call our new agent here Jane. We're going to use Jane later on to work some mock ticketes, so I'm going to set her username and password and record them on my computers notepad for future use. 
+
+![newagent](https://github.com/user-attachments/assets/83dd8e6c-c215-41b8-9f0c-a81985658d29)
+
+I'm going to make Jane apart of the SysAdmin department, and add her to the Supreme Admin role. I'm also going to assign her to the online banking team through the team tab as well. Once we're done configuring Jane we'll hit 'Create' at the bottom of the page to finalize our decision. Before finishing off with the agent section we'll want to create one more agent. We'll call our second agent John, and add him to the support department. We'll also select his role as 'View Only', we can leave the permissions and team sections alone before continuing on with creating our new agent.
+
+![Jane](https://github.com/user-attachments/assets/c23cdcf7-9bfd-4559-b952-4254f74b3062)
+
+- Users
+
+Users are the actual customers who will be submitting tickets to the helpdesk. You don't need to be a user to create a ticket since we changed the authentication settings, but it helps to keep track of the individuals who are actually experiencing issues. To create a user we need to click on the 'Agent Panel' in the rop right, before clicking on the 'Users' tab. Once you've arrived click on the 'Add User' on the right side of the screen. Users only really require an email and a username, and we're going to record these in our notepad as well for future use. We're going to name our user Karen, and give her a fitting email to match.
+
+![create asuser](https://github.com/user-attachments/assets/c18172ac-4c85-4ca5-9899-ad94b313e7b2)
+
+- Service Level Agreements (SLA's)
+
+Service Level Agreements allow us a way to organize tickets based on severity, and also come with a time requirement for how long you have before responding to the ticket. We're going to go ahead and configure a few SLA's. To navigate to the page we're going to want to click on 'Admin Panel' in the top right. Once here we'll want to navigate to the manage tab, where you'll see SLA as an option near the top of the screen. Select SLA, and then select 'Add New SLA Plan'. 
+
+![SLA](https://github.com/user-attachments/assets/f2c0ce3f-9695-4df0-be9c-acf92e5e35ac)
+
+We're going to create 3 different SLA's. The first will be labeled Sev-A, we're going to give it a grace period of 1 hour, and set the schedulue to 24/7 before hitting 'Add Plan'. The second SLA will be labeled Sev-B, and we'll be giving it a grace period of 4 hours, and a schedulue of 24/7. The final SLA will be labeled Sev-C, and we'll set this grace period to 8 hours with a schedulue set to buisness hours, Monday-Friday.
+
+- Help Topics
+
+The final section we'll be covering is help topics. Help topics are a way to catagorize the help tickets that are incoming, so that the appropriate agents can respond appropriately. We can access them from the admin panel inside the manage tab, which we should already be positioned in after creating our SLA's. Click on the 'Help Topics' tab. Then we're going to select 'Add New Help Topic' in the top right hand corner. We're going to be adding a few help topics so we can use them later on in the following addition to this guide. We'll start by adding 
+
 
 
 
