@@ -84,7 +84,16 @@ We're going to create 3 different SLA's. The first will be labeled Sev-A, we're 
 
 - Help Topics
 
-The final section we'll be covering is help topics. Help topics are a way to catagorize the help tickets that are incoming, so that the appropriate agents can respond appropriately. We can access them from the admin panel inside the manage tab, which we should already be positioned in after creating our SLA's. Click on the 'Help Topics' tab. Then we're going to select 'Add New Help Topic' in the top right hand corner. We're going to be adding a few help topics so we can use them later on in the following addition to this guide. We'll start by adding 
+The final section we'll be covering is help topics. Help topics are a way to catagorize the help tickets that are incoming, so that the appropriate agents can respond appropriately. We can access them from the admin panel inside the manage tab, which we should already be positioned in after creating our SLA's. Click on the 'Help Topics' tab. Then we're going to select 'Add New Help Topic' in the top right hand corner. We're going to be adding a few help topics so we can use them later on in the following addition to this walkthrough. We'll start by adding our first help topic, which we'll name 'Business Critical Outage'. For the parent topic we'll go ahead andd make it apart of 'Report a Problem' before hitting 'Add Topic' there at the bottom. Parent topics are a way for us to narrow down what type of issue we're dealing with.
+
+![bca](https://github.com/user-attachments/assets/8dac8228-ec48-45ad-b20d-5332e756ece3)
+
+The next topic we're going to add will be labeled as 'Personal Computer Issues' and it will also be under the 'Report a Problem' parent topic. The third topic we'll add will be labeled 'Equipment Request', and we'll put this under the 'General Inquiry' parent topic. We're only going to add two more before we're done with this section. The next topic will be named 'Password Reset' and it will reside in the 'Report a Problem' parent topic. The final help topic we'll be creating will be named 'Other' and we'll keep it under the 'General Inquiry' parent topic. Now we should have a list of all the help topics we created.
+
+![Helptopicsoverview](https://github.com/user-attachments/assets/353d048d-6e0f-45f2-aa64-725bf1f1a202)
+
+This marks the end of this page's walkthrough. We've completed a general inital setup of osTicket, going through the variety of avaialble configurations inside roles, departments, teams, agents, users, and SLA's. The intial setup helps guide us through the osTicket system and allows us to get a better understanding of how things work. In the next section on osTicket we'll be going through creating and solving some mock tickets, allowing us to get a more in depth view on how the ticketing system works, and how to solve tickets as an agent working to assist those in need. 
+
 
 
 
