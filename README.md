@@ -64,7 +64,7 @@ Agents are the actual individuals who get hired as Help Desk employees to work a
 
 ![newagent](https://github.com/user-attachments/assets/83dd8e6c-c215-41b8-9f0c-a81985658d29)
 
-I'm going to make Jane apart of the SysAdmin department, and add her to the Supreme Admin role. I'm also going to assign her to the online banking team through the team tab as well. Once we're done configuring Jane we'll hit 'Create' at the bottom of the page to finalize our decision. Before finishing off with the agent section we'll want to create one more agent. We'll call our second agent John, and add him to the support department. We'll also select his role as 'View Only', we can leave the permissions and team sections alone before continuing on with creating our new agent.
+I'm going to make Jane apart of the SysAdmin department, and add her to the Supreme Admin role. I'm also going to assign her to the online banking team through the team tab as well. Once we're done configuring Jane we'll hit 'Create' at the bottom of the page to finalize our decision. Before finishing off with the agent section we'll want to create one more agent. We'll call our second agent John, and add him to the support department. We'll also select his role as 'All Access', we can leave the permissions and team sections alone before continuing on with creating our new agent.
 
 ![Jane](https://github.com/user-attachments/assets/c23cdcf7-9bfd-4559-b952-4254f74b3062)
 
